@@ -12,6 +12,7 @@
 		5587BF93202C8B0300F48307 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5587BF91202C8B0300F48307 /* Main.storyboard */; };
 		5587BF95202C8B0300F48307 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5587BF94202C8B0300F48307 /* Assets.xcassets */; };
 		5587BF98202C8B0300F48307 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5587BF96202C8B0300F48307 /* LaunchScreen.storyboard */; };
+		5587BFA0202CAAF800F48307 /* EffectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5587BF9F202CAAF800F48307 /* EffectViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5587BF94202C8B0300F48307 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5587BF97202C8B0300F48307 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5587BF99202C8B0300F48307 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5587BF9F202CAAF800F48307 /* EffectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EffectViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				5587BF8D202C8B0300F48307 /* AppDelegate.swift */,
 				5587BF8F202C8B0300F48307 /* ViewController.swift */,
 				5587BF91202C8B0300F48307 /* Main.storyboard */,
+				5587BF9F202CAAF800F48307 /* EffectViewController.swift */,
 				5587BF94202C8B0300F48307 /* Assets.xcassets */,
 				5587BF96202C8B0300F48307 /* LaunchScreen.storyboard */,
 				5587BF99202C8B0300F48307 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				5587BF90202C8B0300F48307 /* ViewController.swift in Sources */,
 				5587BF8E202C8B0300F48307 /* AppDelegate.swift in Sources */,
+				5587BFA0202CAAF800F48307 /* EffectViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
